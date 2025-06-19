@@ -1,1 +1,1 @@
-The NNIP is for the ternary $\alpha$-Fe-C-H system, it can well describe interactions of H/C with perfect and defective $\alpha$-Fe, H with cementite, H with ferrite-cementite interface, also works well for $alpha$-Fe, hydrogen gas.
+The NNIP is for the ternary $\alpha$-Fe-C-H system, it can well describe interactions of H/C with perfect and defective $\alpha$-Fe, H with cementite, H with ferrite-cementite interface, also works well for $\alpha$-Fe, hydrogen gas.
